@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="695cff6f-2670-42ca-a8be-7a4150302154" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g8vbcWkVe1LfL3ZjiMjR7O1sbb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pageAdmin" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pageAdmin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pageAdmin" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="695cff6f-2670-42ca-a8be-7a4150302154" name="Default Changelist" comment="" />
+      <created>1597509109459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597509109459</updated>
+      <workItem from="1597509115276" duration="18225000" />
+      <workItem from="1597529047567" duration="2907000" />
+      <workItem from="1597571324845" duration="337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="54" y="249" width="1302" height="300" key="#SQL_Dialects" timestamp="1597516171865">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="54" y="249" width="1302" height="300" key="#SQL_Dialects/54.27.1312.741@54.27.1312.741" timestamp="1597516171865" />
+    <state x="305" y="59" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597516381784">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="305" y="59" width="800" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.27.1312.741@54.27.1312.741" timestamp="1597516381784" />
+    <state x="443" y="146" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597512307926">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="443" y="146" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/54.27.1312.741@54.27.1312.741" timestamp="1597512307925" />
+    <state x="493" y="155" width="424" height="487" key="FileChooserDialogImpl" timestamp="1597511519847">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="493" y="155" width="424" height="487" key="FileChooserDialogImpl/54.27.1312.741@54.27.1312.741" timestamp="1597511519847" />
+    <state x="505" y="323" width="399" height="152" key="NewPhpFileDialog" timestamp="1597525430889">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="505" y="323" width="399" height="152" key="NewPhpFileDialog/54.27.1312.741@54.27.1312.741" timestamp="1597525430889" />
+    <state x="199" y="34" width="1022" height="733" key="SettingsEditor" timestamp="1597510056278">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="199" y="34" width="1022" height="733" key="SettingsEditor/54.27.1312.741@54.27.1312.741" timestamp="1597510056278" />
+    <state x="435" y="313" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597509246832">
+      <screen x="54" y="27" width="1312" height="741" />
+    </state>
+    <state x="435" y="313" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/54.27.1312.741@54.27.1312.741" timestamp="1597509246832" />
+  </component>
+</project>
