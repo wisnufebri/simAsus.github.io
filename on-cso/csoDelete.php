@@ -14,15 +14,15 @@ if(isset($_GET['id'])){
         //query ke database DELETE untuk menghapus data dengan kondisi id=$id
         $del = mysqli_query($koneksi, "DELETE FROM mahasiswa WHERE id='$id'") or die(mysqli_error($koneksi));
         if($del){
-            echo '<script>alert("Berhasil menghapus data."); document.location="../halaman_admin.php";</script>';
+            echo '<script>alert("Berhasil menghapus data."); document.location="halaman-cso.php";</script>';
         }else{
-            echo '<script>alert("Gagal menghapus data."); document.location="../halaman_admin.php";</script>';
+            echo '<script>alert("Gagal menghapus data."); document.location="halaman-cso.php";</script>';
         }
     }else{
-        echo '<script>alert("ID tidak ditemukan di database."); document.location="../halaman_admin.php";</script>';
+        echo '<script>alert("ID tidak ditemukan di database."); document.location="halaman-cso.php";</script>';
     }
 }else{
-    echo '<script>alert("ID tidak ditemukan di database."); document.location="../halaman_admin.php";</script>';
+    echo '<script>alert("ID tidak ditemukan di database."); document.location="halaman-cso.php";</script>';
 }
 
 ?>

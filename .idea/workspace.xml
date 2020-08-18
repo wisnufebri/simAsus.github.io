@@ -2,8 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="695cff6f-2670-42ca-a8be-7a4150302154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeAdmin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeCso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeTeknisi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-admin/customer-admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-admin/customerDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-admin/customerUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/chart-area-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/chart-bar-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/chart-pie-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/datatables-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/assets/img/error-404-monochrome.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/csoDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/csoUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/customer-cso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/customerDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/customerUpdate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/on-cso/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pelaporan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cek_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/cek_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halaman_admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/halaman-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halaman_cso.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halaman_teknisi.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-cso/halaman-cso.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/adminDelete.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/adminDelete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/adminUpdate.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/adminUpdate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/chart-area-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/chart-area-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/chart-bar-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/chart-bar-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/chart-pie-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/chart-pie-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/datatables-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/datatables-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/img/error-404-monochrome.svg" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/img/error-404-monochrome.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/input-aksi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/input.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/karyawan.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageAdmin/layout-sidenav-light.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +63,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pageAdmin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/on-cso" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/on-admin" />
       <recent name="$PROJECT_DIR$/pageAdmin" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/on-cso" />
       <recent name="$PROJECT_DIR$/pageAdmin" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -50,7 +88,12 @@
       <updated>1597509109459</updated>
       <workItem from="1597509115276" duration="18225000" />
       <workItem from="1597529047567" duration="2907000" />
-      <workItem from="1597571324845" duration="337000" />
+      <workItem from="1597571324845" duration="15157000" />
+      <workItem from="1597601326546" duration="6475000" />
+      <workItem from="1597645974137" duration="6762000" />
+      <workItem from="1597666241168" duration="3936000" />
+      <workItem from="1597679250283" duration="22261000" />
+      <workItem from="1597739599265" duration="225000" />
     </task>
     <servers />
   </component>
@@ -74,14 +117,24 @@
       <screen x="54" y="27" width="1312" height="741" />
     </state>
     <state x="493" y="155" width="424" height="487" key="FileChooserDialogImpl/54.27.1312.741@54.27.1312.741" timestamp="1597511519847" />
-    <state x="505" y="323" width="399" height="152" key="NewPhpFileDialog" timestamp="1597525430889">
-      <screen x="54" y="27" width="1312" height="741" />
+    <state x="470" y="325" width="350" height="150" key="NewPhpFileDialog" timestamp="1597700243227">
+      <screen x="0" y="30" width="1366" height="738" />
     </state>
+    <state x="470" y="325" width="350" height="150" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1597700243227" />
     <state x="505" y="323" width="399" height="152" key="NewPhpFileDialog/54.27.1312.741@54.27.1312.741" timestamp="1597525430889" />
-    <state x="199" y="34" width="1022" height="733" key="SettingsEditor" timestamp="1597510056278">
-      <screen x="54" y="27" width="1312" height="741" />
+    <state x="516" y="105" width="323" height="590" key="RollbackChangesDialog" timestamp="1597705879020">
+      <screen x="0" y="30" width="1366" height="738" />
     </state>
+    <state x="516" y="105" width="323" height="590" key="RollbackChangesDialog/0.30.1366.738@0.30.1366.738" timestamp="1597705879020" />
+    <state x="151" y="37" width="1022" height="733" key="SettingsEditor" timestamp="1597571694132">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="151" y="37" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1597571694132" />
     <state x="199" y="34" width="1022" height="733" key="SettingsEditor/54.27.1312.741@54.27.1312.741" timestamp="1597510056278" />
+    <state x="289" y="30" width="631" height="485" key="dock-window-1" timestamp="1597669186348">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="289" y="30" width="631" height="485" key="dock-window-1/0.30.1366.738@0.30.1366.738" timestamp="1597669186348" />
     <state x="435" y="313" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597509246832">
       <screen x="54" y="27" width="1312" height="741" />
     </state>
