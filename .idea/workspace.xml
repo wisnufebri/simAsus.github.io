@@ -2,44 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="695cff6f-2670-42ca-a8be-7a4150302154" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homeAdmin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeCso.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeTeknisi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-admin/customer-admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-admin/customerDelete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-admin/customerUpdate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/chart-area-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/chart-bar-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/chart-pie-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/assets/demo/datatables-demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/assets/img/error-404-monochrome.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/csoDelete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/csoUpdate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/customer-cso.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/customerDelete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/customerUpdate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/on-cso/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pelaporan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cek_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/cek_login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/halaman_admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/halaman-admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/halaman_cso.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/halaman_teknisi.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-cso/halaman-cso.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/adminDelete.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/adminDelete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/adminUpdate.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/adminUpdate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/chart-area-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/chart-area-demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/chart-bar-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/chart-bar-demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/chart-pie-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/chart-pie-demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/demo/datatables-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/demo/datatables-demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/assets/img/error-404-monochrome.svg" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/assets/img/error-404-monochrome.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/input-aksi.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/input.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/karyawan.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageAdmin/layout-sidenav-light.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIVE.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeCso.php" beforeDir="false" afterPath="$PROJECT_DIR$/homeCso.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeTeknisi.php" beforeDir="false" afterPath="$PROJECT_DIR$/homeTeknisi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/on-admin/adminUpdate.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/adminUpdate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/on-admin/customerUpdate.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-admin/customerUpdate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/on-cso/customerUpdate.php" beforeDir="false" afterPath="$PROJECT_DIR$/on-cso/customerUpdate.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +63,7 @@
       <workItem from="1597666241168" duration="3936000" />
       <workItem from="1597679250283" duration="22261000" />
       <workItem from="1597739599265" duration="225000" />
+      <workItem from="1598466129003" duration="19000" />
     </task>
     <servers />
   </component>

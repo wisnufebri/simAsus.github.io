@@ -11,7 +11,8 @@ include('/opt/lampp/htdocs/simAsus/config.php');
 <title>Company Name
 </title>
 <link href="css/styles.css" rel="stylesheet" />
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" crossorigin="anonymous">
 </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
@@ -73,25 +74,29 @@ include('/opt/lampp/htdocs/simAsus/config.php');
             <div class="form-group row">
                 <label class="col-sm-2 col-form-label">RMA</label>
                 <div class="col-sm-10">
-                    <input type="text" name="rma" class="form-control" size="4" value="<?php echo $data['rma']; ?>" required>
+                    <input type="text" name="rma" class="form-control" size="4" value="<?php echo $data['rma']; ?>"
+                        required>
                 </div>
             </div>
             <div class="form-group row">
                 <label class="col-sm-2 col-form-label">Nama</label>
                 <div class="col-sm-10">
-                    <input type="text" name="nama" class="form-control" value="<?php echo $data['nama']; ?>" readonly required>
+                    <input type="text" name="nama" class="form-control" value="<?php echo $data['nama']; ?>" readonly
+                        required>
                 </div>
             </div>
             <div class="form-group row">
                 <label class="col-sm-2 col-form-label">No Telpon</label>
                 <div class="col-sm-10">
-                    <input type="text" name="no_telpon" class="form-control" value="<?php echo $data['no_telpon']; ?>" required readonly>
+                    <input type="text" name="no_telpon" class="form-control" value="<?php echo $data['no_telpon']; ?>"
+                        required readonly>
                 </div>
             </div>
             <div class="form-group row">
                 <label class="col-sm-2 col-form-label">SERIAL NUMBER</label>
                 <div class="col-sm-10">
-                    <input type="text" name="serial_number" class="form-control" value="<?php echo $data['serial_number']; ?>" required readonly>
+                    <input type="text" name="serial_number" class="form-control"
+                        value="<?php echo $data['serial_number']; ?>" required readonly>
                 </div>
             </div>
             <div class="form-group row">
@@ -133,7 +138,8 @@ include('/opt/lampp/htdocs/simAsus/config.php');
             <div class="form-group row">
                 <label class="col-sm-2 col-form-label">POSISI RAK</label>
                 <div class="col-sm-10">
-                    <input type="text" name="posisi_rak" class="form-control" value="<?php echo $data['posisi_rak']; ?>" required>
+                    <input type="text" name="posisi_rak" class="form-control" value="<?php echo $data['posisi_rak']; ?>"
+                        required>
                 </div>
             </div>
             <div class="form-group row">
@@ -154,11 +160,14 @@ include('/opt/lampp/htdocs/simAsus/config.php');
 
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous">
     </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous">
     </script>
 
 </body>

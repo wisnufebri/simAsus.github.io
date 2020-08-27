@@ -51,22 +51,26 @@ include('/opt/lampp/htdocs/simAsus/config.php');
 
         <form action="halaman-admin.php?id_user=<?php echo $id_user; ?>" method="post">
             <div class="form-group row">
+                <label class="col-sm-2 col-form-label">Nama</label>
                 <div class="col-sm-10">
                     <input type="text" name="nama" class="form-control" size="4" value="<?php echo $data['nama']; ?>">
                 </div>
             </div>
             <div class="form-group row">
+                <label class="col-sm-2 col-form-label">Username</label>
                 <div class="col-sm-10">
                     <input type="text" name="username" class="form-control" value="<?php echo $data['username']; ?>">
                 </div>
             </div>
             <div class="form-group row">
+                <label class="col-sm-2 col-form-label">Password</label>
                 <div class="col-sm-10">
                     <input type="password" name="password" class="form-control"
                         value="<?php echo $data['password']; ?>">
                 </div>
             </div>
             <div class="form-group row">
+                <label class="col-sm-2 col-form-label">Level</label>
                 <div class="col-sm-10">
                     <select name="level" class="form-control">
                         <option value="">PILIH MODEL</option>
